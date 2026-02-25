@@ -1,4 +1,4 @@
-Code : 
+
 # FeedBack analyser
 
 # import
@@ -212,17 +212,6 @@ elif option == "Analytics":
             ''', unsafe_allow_html=True)
 
 
-
-"It's delicious, and i am happy to have this with my love and friends"
-
-
-"It's a very great and delicious dish, giving good vibes while having food and i love to spend time in this restaurant."
-
-
-"I regret ordering this food and I am unhappy on this item"
-
-
-"The cheese pizza I have ordered was bitter and salty. I regret ordering this as it was cold when it was delivered."
 
 
 
